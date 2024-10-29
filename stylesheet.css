@@ -1,13 +1,13 @@
 @font-face {
 	font-family: "Caveat Brush",
-	src: url("/Users/celinenguyen/Downloads/website/CaveatBrush-Regular.ttf");
+	src: local("CaveatBrush-Regular.ttf");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
 	font-family: "Patrick Hand",
-	src: url("/Users/celinenguyen/Downloads/website/PatrickHand-Regular.ttf");
+	src: local("PatrickHand-Regular.ttf");
 font-weight: 400;
   font-style: normal;
 }
